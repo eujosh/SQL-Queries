@@ -1,2 +1,2 @@
-# SQL-project
-To normalize the database to bring it into 3rd Normal Form
+# SQL-Queries
+Use of optimisation techniques with large amounts of data
